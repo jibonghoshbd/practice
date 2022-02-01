@@ -1,0 +1,9 @@
+input[type="radio"]:checked{
+	width: 20px;
+	height: 20px;
+}
+input[type="text"] {
+	outline: none;
+	border: none;
+	border: 1px solid #ddd;
+}
